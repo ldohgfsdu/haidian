@@ -1,9 +1,6 @@
 name: gallery-snapshot-maintenance
 
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
 
 permissions:
